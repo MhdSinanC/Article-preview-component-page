@@ -193,7 +193,7 @@ body {
         transform: translateX(-50%);
         border-width: 0.5625rem;
         border-style: solid;
-        border-color: var(--Very-Dark-Grayish-Blue);
+        border-color: var(--Very-Dark-Grayish-Blue) transparent transparent transparent;
     }
 
     .share-panel button {
